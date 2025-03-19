@@ -14,8 +14,8 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program.
 ### Program:
-
-
+```py
+```
 
 
 
